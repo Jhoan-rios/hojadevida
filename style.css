@@ -1,0 +1,115 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body
+{
+    background-color: #c9c9c9;
+}
+
+h1
+{
+    height: 70px;
+    color: #fff;
+    margin-top: px;
+}
+#agrupar
+{
+    width: 54%;
+    margin: 0px auto;
+    text-align: left;   
+    background-color: #fff;
+}
+#circulo
+{
+    border: 1px solid black;
+    border-radius: 360px;
+    width: 250px;
+    background-image: url(persona.png);
+    margin-left: 25px;
+    margin-top: 0px;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+#cabecera
+{
+    background-color: #5e86b4;
+    width: 1000px ;
+    height: 200px;
+    text-align: center;
+}
+#barras
+{
+    background-color: #6f7479;
+    width: 1000px;
+    height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+#informacion 
+{
+    float: right;
+    margin-right: 790px;
+}
+#informacion
+{
+    float: left;
+    margin-left: 20px;
+
+}
+#perfil
+{
+    margin-left: 15px;
+}
+#columna 
+{
+    float: right;
+    width: 30%;
+    height: 700px;
+    padding: 20px;
+    background: #abadb1  ;
+    color: white;
+    margin-top: 0px;
+}
+#hola
+{
+    width: 300px;
+    height: 300px;
+}
+#parrafo
+{
+    text-align: center;
+    margin-top: 10px;
+}
+#parrafo2
+{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#contacto
+{
+    float: right;
+    margin-top: 11px;
+    margin-right: 110px;
+}
+#telefono
+{
+    border-radius: 200px;
+    width: 40px;
+    margin-top: 0px;
+}
+#contacto2
+{
+    float: right;
+    margin-top: 12px;
+    margin-right: 40px;
+}
+#contacto3
+{
+    float: right;
+    margin-top: 10px;
+    margin-right: 80px;
+}
